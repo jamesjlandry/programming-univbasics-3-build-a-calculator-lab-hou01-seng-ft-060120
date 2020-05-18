@@ -22,4 +22,4 @@ def square_root(num)
  Math.sqrt#{num}
 end
 
-sqare_root(81)
+square_root(81)

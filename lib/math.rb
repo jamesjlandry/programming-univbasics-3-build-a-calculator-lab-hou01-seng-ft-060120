@@ -7,7 +7,7 @@ def subtraction(num1, num2)
 end
 
 def division(num1, num2)
-"#num2".to_i / "#num1".to_i
+"#num2".to_f / "#num1".to_f
 end
 
 def multiplication(num1, num2)
